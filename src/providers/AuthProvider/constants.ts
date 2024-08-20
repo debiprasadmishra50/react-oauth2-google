@@ -1,0 +1,5 @@
+export enum AUTHENTICATION {
+  NOT_DETERMINED,
+  SUCCESS,
+  FAILURE,
+}
