@@ -1,5 +1,10 @@
 # OAuth2.0 Frontend App
 
+This App implements the OAuth for both
+
+1. Google
+2. Apple
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Steps to run the app [In localhost]
